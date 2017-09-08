@@ -3,6 +3,8 @@ package bfs;
 import java.util.LinkedList;
 import java.util.Queue;
 
+// the code is modified from: http://blog.csdn.net/williamcs/article/details/8298674
+
 public class MCSol {
 	// the state queue used for search
 	private Queue<State> q = new LinkedList<State>();
